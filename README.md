@@ -1,0 +1,2 @@
+# emotion-detection-through-text
+This model focuses on emotion detection from textual data but expands from the identification of positive and negative sentiments to identification of a spectrum of emotions from text. The ability to identify specific emotions from textual data can be helpful, most especially, for social media data analysis and prediction. It can also help to improve algorithms that make use of emotion detection to make predictions (e.g., Grammarly’s tone identification for text improvement predictions).
